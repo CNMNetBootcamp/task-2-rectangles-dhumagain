@@ -6,6 +6,7 @@ namespace Task2
     {
         static void Main(string[] args)
         {
+            //Good
             double height1 = 0.0;
             double width1 = 0.0;
 
